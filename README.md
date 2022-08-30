@@ -16,5 +16,5 @@ Hi, this is my very first file.
 |---|---|---|
 |I can| put anything | here |
 |---|---|---|
-|3.6|2.3||5.3|
+|3.6|2.3|5.3|
 |---|---|---|
