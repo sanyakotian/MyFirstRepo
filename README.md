@@ -15,5 +15,6 @@ Hi, this is my very first file.
 |This is | the header | of my table |
 | --- | --- | --- | --- | --- |
 |I can| put anything | here |
+|---|---|---|
 |3.6|2.3||5.3|
-
+|---|---|---|
