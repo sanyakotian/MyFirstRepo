@@ -6,11 +6,11 @@ Sanya Kotian University of Texas at Austin 2022.
 
  ~~ This was a mistake ~~ Mistake 
  
- 	**Sanya Kotian**
+ 	** ** Sanya Kotian
 
 Hi, this is my very first file. 
 
-*** This is a bold with italics ***This is bold with italics
+*** This is a bold with italics ***. 
 
 |This is | the header | of my table |
 |---|---|---|
